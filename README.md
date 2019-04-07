@@ -1,0 +1,2 @@
+# convert_emnist_data_to_imagefile
+emnistのデータをpng画像に変換して保存する
